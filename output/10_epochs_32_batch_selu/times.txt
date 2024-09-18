@@ -1,0 +1,3 @@
+Cnn_Epoch -> 70sg
+Resnet_Epoch -> 80sg
+Vgg_Epoch -> 500sg
